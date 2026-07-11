@@ -5,7 +5,5 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
-  },
-  "author": "Mubashir Khan",
-  "license": "MIT"
+  }
 }
